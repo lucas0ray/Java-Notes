@@ -1,6 +1,6 @@
 #Hibernate框架  
-##jar库：[https://mvnrepository.com/](https://mvnrepository.com/)
-##1.添加hibernate依赖
+##jar库：[https://mvnrepository.com/](https://mvnrepository.com/)  
+##1.添加hibernate依赖  
 	org.hibernate hibernate-core
 
 	<dependency>
@@ -16,7 +16,7 @@
   		<artifactId>mysql-connector-java</artifactId>
   		<version>8.0.16</version>
   	</dependency>
-##3.J2SE-1.5问题
+##3.J2SE-1.5问题  
 	```ruby
 	<build>
 	<finalName>WinXin</finalName>
