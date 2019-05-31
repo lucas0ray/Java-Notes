@@ -37,12 +37,12 @@
 ##4.创建数据库表-->>创建持久化po类对应数据库表
 ##5.在resources中创建类与表之间的映射文件
 ###类名.hbm.xml-->>声明dtd文件
-**Libraries-->>
-Maven Dependencies-->>
-hibernate-core-x.x.x.Final.jar-->>
-org.hibernate核心包-->>
-hibernate-mapping-3.0.dtd
-大概10-13行左右-->><!DDCTYPE开头dtd">结尾-->>为dtd文件声明**  
+**	Libraries-->>  
+	Maven Dependencies-->>  
+	hibernate-core-x.x.x.Final.jar-->>  
+	org.hibernate核心包-->>  
+	hibernate-mapping-3.0.dtd  
+	大概10-13行左右-->><!DDCTYPE开头dtd">结尾-->>为dtd文件声明**  
 
 	<!DOCTYPE hibernate-mapping PUBLIC  
 		"-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
