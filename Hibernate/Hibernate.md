@@ -1,4 +1,4 @@
-#Hibernate框架
+#Hibernate框架  
 ##jar库：[https://mvnrepository.com/](https://mvnrepository.com/)
 ##1.添加hibernate依赖
 	org.hibernate hibernate-core
